@@ -1,5 +1,5 @@
 # Overview
-In the second year of studying at the University of Toronto St.George campus, ECE243 is a course aims for students to learn the connection between software and hardware. This course teaches programming in ARM Assembly, C and Verilog. This project is one of the labs of this course.<br/>
+In the second year of Electrical & Computer Engineering at the University of Toronto St.George campus, ECE243 is a course aims for students to learn the connection between software and hardware. This course teaches programming in ARM Assembly, C and Verilog. This project is one of the labs of this course.<br/>
 
 This project implements a custom designed processor written in Verilog. Handles basic ARM Assembly instructions such as load, store, move, move top, add, subtract, and, etc. Verilog code uses FSM (finite state machine) to control the states of the instructions and complete them in 3-5 states.
 
